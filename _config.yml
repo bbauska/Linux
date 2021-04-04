@@ -1,0 +1,11 @@
+# basic options
+title: Linux Tutorial - Beginners
+author: Brian Bauska
+email: brianbauska@gmail.com
+description: On-Line Tutorial for Linux Operating System
+twitter_username: bbauska
+github_username:  bbauska
+
+# Build settings
+markdown: kramdown
+theme: minima
