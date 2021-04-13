@@ -3,13 +3,21 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This is an about page about this awesome site "Linus Tutorial".
+It has an online beginners course & several books.
+Hope you enjoy it!
 
-Reasons:
-- its great.
-- its a test.
+Books:
+- Ubuntu Server Essentials (epub).
+- Unix and Linux System Administration Handbook (pdf) - 1,342pgs.
+- Ubuntu Server Guide (pdf) - 380pgs.
+- Ubuntu Unleashed (pdf) - 200pgs.
+- Linux Admin for Absolute Beginners (pdf) - 159pgs.
+- Ubuntu Linus Toolbox - 1,000 Commands for Power Users - 372pgs.
 
+Class:
+- Linux Tutorial.
+-
 ## Other thoughts
-
-This is great.
+  Ain't got none.
+  But this is great.
