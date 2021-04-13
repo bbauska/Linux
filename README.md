@@ -1,3 +1,3 @@
-# linux-tutorial
+README.md
 
-## Class on linux
+## Beginners course on linux
