@@ -1,3 +1,3 @@
 README.md
 
-## Beginners course on linux
+## Beginners course & epub books on linux.  Take a look.
